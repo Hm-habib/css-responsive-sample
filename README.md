@@ -26,4 +26,5 @@
 * list style
 * border
 * line height
-* flex wrap (etc.)
+* flex wrap 
+* responsive design (etc.)
